@@ -4,7 +4,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'PT Serif Caption', sans-serif;
-    background: #fff;
+    background: rgb(222, 202, 177);
     color: black;
     overflow-x: hidden;
 }
@@ -146,7 +146,7 @@ a:hover {
 /* Footer */
 .footer-basic {
     padding: 40px 0;
-    background-color: #dbdbdb;
+    background-color: #c9c4c4;
     color: #4b4c4d;
 }
 
